@@ -40,11 +40,11 @@ La sujeto B ha realizado el experimento correctamente, siguiendo todos los pasos
 
 **Dos puntos fuertes:**
 
-1. Amabilidad
-2. Responsabilidad
+1. Estructura visual y comparativa impecable.
+2. Dominio de la sintaxis Markdown y navegación.
 
 **Dos mejoras prioritarias:**
 Propuesta | Archivo y apartado | Observación y mejora propuesta
 ----------| -----------------  | ---------------------------
-P1 | cms.md: | Más alegría al documento.
-P2 | ssg.md: | Más creatividad.
+P1 | cms.md: | Se propone añadir una pequeña tabla o lista con el ranking (por ejemplo: WordPress, Shopify, Wix, Squarespace, Joomla).
+P2 | ssg.md: | Se propone añadir un breve subapartado justificando las ventajas del SSG sobre el HTML.

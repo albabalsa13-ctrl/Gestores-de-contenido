@@ -48,3 +48,15 @@ Propuesta | Archivo y apartado | Observación y mejora propuesta
 ----------| -----------------  | ---------------------------
 P1 | cms.md: | Se propone añadir una pequeña tabla o lista con el ranking (por ejemplo: WordPress, Shopify, Wix, Squarespace, Joomla).
 P2 | ssg.md: | Se propone añadir un breve subapartado justificando las ventajas del SSG sobre el HTML.
+
+### D. Respuesta y correcciones del propietario del proyecto
+
+*Cumplimenta: Alba Balsa Pena*
+
+| Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
+| :--- | :--- | :--- | :--- |
+| **P1** | Aceptada. Añadí ranking del Top 5 de CMS mas usados para completar. | Añadida lista en `cms.md`. | Commit en cms.md |
+| **P2** | Aceptada. Añadí una sección explicando las ventajas de los SSG frente al HTML clásico. | Añadida sección "Ventajas SSG frente al HTML" en `ssg.md`. | Commit en ssg.md |
+
+**Qué he aprendido al corregir el trabajo:**
+He aprendido más sobre el mercado actual de los CMS y a valorar la velocidad del flujo de trabajo de los SSG frente al HTML puro.

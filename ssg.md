@@ -2,6 +2,10 @@
 
 Un generador de sitios estáticos (SSG) es una herramienta que compila código y contenido en local o en un servidor de integración para generar una web compuesta únicamente por archivos planos (HTML, CSS y JavaScript) listos para servir. Utiliza como punto de partida archivos de texto ligero (habitualmente Markdown o MDX con metadatos en YAML/TOML) y los procesa a través de plantillas y motores de compilación (build pipeline), generando todo el HTML final antes de que cualquier usuario visite la página. Gracias a esto, el servidor no necesita ejecutar consultas a bases de datos ni interpretar código en tiempo real, lo que ofrece máxima velocidad de carga, alta seguridad y costes mínimos de alojamiento, a cambio de requerir recompilaciones completas ante cada cambio y exigir conocimientos técnicos de consola y Git.  
 ![Imagen](SSG.jpg)
+
+## Ventajas SSG frente al HTML
+Usar un SSG hace que no tengas que escribir HTML desde cero para cada página, tiene plantillas y componentes reutilizables, por lo que la creación de webs es mas automática y optimizada. Agiliza mucho la carga de trabajo.
+
 ## Comparación de generadores estáticos
 
 | Aspecto que investigar | Jekyll | Hugo | Astro |

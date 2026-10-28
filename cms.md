@@ -16,6 +16,13 @@ Un Sistema de Gestión de Contenidos (CMS) es una aplicación web que permite cr
     - **Strapi:** arquitectura desacoplada / *Headless* (backend de código abierto que expone contenido mediante API REST o GraphQL).
     - **Sanity:** arquitectura desacoplada / *Headless* basada en la nube.
 
+## Ranking de los CMS mas usados
+1. WordPress
+2. Shopify
+3. Wix
+4. Squarespace
+5. Joomla / Elementor
+
 ## CMS dinámico frente a Generador de sitios estáticos (SSG)
 
 | Aspecto | CMS dinámico | Generador estático |
